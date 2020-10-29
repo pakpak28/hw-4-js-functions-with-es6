@@ -70,5 +70,5 @@ const countDown = (num) =>
     }
   }, 1000);
 
-console.log(countDown(3)); // 3 2 1 0
-console.log(countDown(5)); // 5 4 3 2 1 0
+countDown(3); // 3 2 1 0
+countDown(5); // 5 4 3 2 1 0
